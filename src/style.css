@@ -7,11 +7,11 @@
 
 :root {
   --bg:        #04030d;
-  --bg2:       #090818;
-  --purple:    #7c6fff;
-  --purple2:   #4f3fff;
-  --cyan:      #00e5ff;
-  --pink:      #ff4d9e;
+  --bg2:       #191825;
+  --purple:    #9d97d9;
+  --purple2:   #352b9e;
+  --cyan:      #007481;
+  --pink:      #ff0073;
   --white:     #ffffff;
   --gray:      #888;
   --card-bg:   rgba(255,255,255,0.03);
