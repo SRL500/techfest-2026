@@ -1,0 +1,12 @@
+{
+  "name": "techfest-2026",
+  "version": "1.0.0",
+  "description": "IITB Techfest 2026 - 3D Interactive Website",
+  "scripts": {
+    "dev": "npx live-server --port=5500 --open=index.html",
+    "start": "npx live-server --port=5500 --open=index.html"
+  },
+  "keywords": ["techfest", "threejs", "gsap", "3d"],
+  "author": "Techfest Campus Ambassador",
+  "license": "MIT"
+}
